@@ -1,0 +1,15 @@
+
+table,th,td{
+    border-radius: 10px;
+}
+th,td{
+    padding: 10px;
+    color:white;
+}
+th{
+    text-align: left;
+    background-color: rgb(70, 70, 70);
+}
+td{
+    background-color: rgb(148, 84, 209);
+}
